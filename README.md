@@ -29,5 +29,4 @@ make
 ./mysh
 ```
 
-Après ceci vous pouvez pratiquement tout faire d'un terminal tcsh
-
+Une fois ceci fait, vous pouvez effectuer pratiquement toutes les opérations comme dans un terminal tcsh
